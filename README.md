@@ -10,7 +10,7 @@
 ## Link to Application 
 The password generator is currently hosted by GitPages from a GitHub repository.
 
-[Click here to see the deployed application!](https://gavinreid0.github.io/Password-Generator/)
+[Click here to see the deployed application!](https://gavinreid0.github.io/JavaScript-Password-Generator/)
 
 ## Usage
  * a user can generate a password by clicking the red "Generate Password" button. 
