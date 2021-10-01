@@ -2,7 +2,7 @@
 
 ## Desciption
     This application Utilizes the use of HTML, CSS, and Javascript to generate a random, secure 
-    assword for the user. This enables employees to generate random passwords based on criteria 
+    password for the user. This enables employees to generate random passwords based on criteria 
     that they’ve selected. This app runs in the browser and features dynamically updated HTML 
     and CSS powered by JavaScript code. This assignment illuminates the use of Javascript to 
     make dynamic changes to an HMTL document. 
